@@ -1,0 +1,4 @@
+Git Branching Experiment
+
+This is the original file.
+Learning Git merge conflict resolution.
