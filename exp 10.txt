@@ -1,4 +1,4 @@
-Git Branching Experiment
+Git Experiment 10
 
-This is the content from branch1.
-Learning Git merge conflict resolution.
+Branch 2 content:
+This is the modified version from branch2.
